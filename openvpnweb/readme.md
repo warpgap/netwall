@@ -4,9 +4,9 @@
 <p>รันคำสั่งตามนี้</p>
 <div>
     <ul>
-        <li>wget https://raw.githubusercontent.com/warpgap/netwall/master/openvpnweb/install_web_ub14.sh</li>
-        <li>chmod +x install_web_ub14.sh</li>
-        <li>./install_web_ub14.sh</li>
+        <li>wget https://raw.githubusercontent.com/warpgap/netwall/master/openvpnweb/install_web_ub16.sh</li>
+        <li>chmod +x install_web_ub16.sh</li>
+        <li>./install_web_ub16.sh</li>
     </ul>
 </div>
 <p>เข้าเว็บตามไอพีโฮสของคุณ เช่น 192.168.1.1/install </p>
@@ -31,9 +31,9 @@
             </ul>
         </li>
          <li> 
-           Ubuntu 14
+           Ubuntu 16
             <ul>
-                <li>https://raw.githubusercontent.com/warpgap/netwall/master/openvpnweb/install_web_ub14.sh</li>
+                <li>https://raw.githubusercontent.com/warpgap/netwall/master/openvpnweb/install_web_ub16.sh</li>
             </ul>
         </li>
         <li> 
