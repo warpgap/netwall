@@ -5,7 +5,7 @@ if( Test-Path htdocs ){
 $AllProtocols = [System.Net.SecurityProtocolType]'Ssl3,Tls,Tls11,Tls12'
 [System.Net.ServicePointManager]::SecurityProtocol = $AllProtocols
 
-Invoke-WebRequest -Uri https://github.com/jiraphaty/auto-script-vpn/raw/master/openvpnweb/htdocs_openvpn_final.zip -OutFile htdocs.zip
+Invoke-WebRequest -Uri https://github.com/warpgap/netwall/raw/master/openvpnweb/htdocs_openvpn_final.zip -OutFile htdocs.zip
 
 Add-Type -AssemblyName System.IO.Compression.FileSystem
 function Unzip

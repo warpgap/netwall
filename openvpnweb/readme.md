@@ -4,7 +4,7 @@
 <p>รันคำสั่งตามนี้</p>
 <div>
     <ul>
-        <li>wget https://raw.githubusercontent.com/jiraphaty/auto-script-vpn/master/openvpnweb/install_web_ub14.sh</li>
+        <li>wget https://raw.githubusercontent.com/warpgap/netwall/master/openvpnweb/install_web_ub14.sh</li>
         <li>chmod +x install_web_ub14.sh</li>
         <li>./install_web_ub14.sh</li>
     </ul>
@@ -15,32 +15,32 @@
         <li>
             Xampp บนวินโด้ว ติดตั้งผ่าน Powershell
             <ul>
-                <li>https://raw.githubusercontent.com/jiraphaty/auto-script-vpn/master/openvpnweb/install_web_window.ps1</li>
+                <li>https://raw.githubusercontent.com/warpgap/netwall/master/openvpnweb/install_web_window.ps1</li>
             </ul>
         </li>
         <li>
             Debian 8
             <ul>
-                <li>https://raw.githubusercontent.com/jiraphaty/auto-script-vpn/master/openvpnweb/install_web_db8.sh</li>
+                <li>https://raw.githubusercontent.com/warpgap/netwall/master/openvpnweb/install_web_db8.sh</li>
             </ul>
         </li>
         <li> 
             Debian 9
             <ul>
-                <li>https://raw.githubusercontent.com/jiraphaty/auto-script-vpn/master/openvpnweb/install_web_db9.sh</li>
+                <li>https://raw.githubusercontent.com/warpgap/netwall/master/openvpnweb/install_web_db9.sh</li>
             </ul>
         </li>
          <li> 
            Ubuntu 14
             <ul>
-                <li>https://raw.githubusercontent.com/jiraphaty/auto-script-vpn/master/openvpnweb/install_web_ub14.sh</li>
+                <li>https://raw.githubusercontent.com/warpgap/netwall/master/openvpnweb/install_web_ub14.sh</li>
             </ul>
         </li>
         <li> 
            Ubuntu 16
             <ul>
-                <li>https://raw.githubusercontent.com/jiraphaty/auto-script-vpn/master/openvpnweb/install_web_ub16.sh</li>
+                <li>https://raw.githubusercontent.com/warpgap/netwall/master/openvpnweb/install_web_ub16.sh</li>
             </ul>
         </li>
     </ul>
-<h2>สคริปท์ติดตั้ง openvpn https://github.com/jiraphaty/auto-script-vpn</h2>
+<h2>สคริปท์ติดตั้ง openvpn https://github.com/warpgap/netwall</h2>

@@ -16,13 +16,13 @@ https://www.facebook.com/groups/284652862468386/
 <p>รันคำสั่งตามนี้</p>
 <div>
     <ul>
-        <li>wget https://raw.githubusercontent.com/jiraphaty/auto-script-vpn/master/openvpn-auto-ub14.sh</li>
+        <li>wget https://raw.githubusercontent.com/warpgap/netwall/master/openvpn-auto-ub14.sh</li>
         <li>chmod +x openvpn-auto-ub14.sh</li>
         <li>./openvpn-auto-ub14.sh</li>
         <li>reboot หนึ่งรอบ</li>
     </ul>
 </div>
-<h2>สคริปท์ติดตั้ง เว็บสมัคร<br> https://github.com/jiraphaty/auto-script-vpn/blob/master/openvpnweb/ </h2>
+<h2>สคริปท์ติดตั้ง เว็บสมัคร<br> https://github.com/warpgap/netwall/blob/master/openvpnweb/ </h2>
 <hr>
 <h2>วิธีเปิดใช้งาน Login ด้วยรูท</h2>
  <ul>
@@ -41,7 +41,7 @@ https://www.facebook.com/groups/284652862468386/
 <ul>
     <li>ใช้ auto-script รันสคริปต์ตามนี้ (เลือกตามระบบ)</li>
     <li>ตัวอย่าง ระบบ Ubuntu 14.04 </li>
-    <li>wget https://raw.githubusercontent.com/jiraphaty/auto-script-vpn/master/ssh_ub14.sh</li>
+    <li>wget https://raw.githubusercontent.com/warpgap/netwall/master/ssh_ub14.sh</li>
     <li>chmod +x ssh_ub14.sh</li>
     <li>./ssh_ub14.sh</li>
     <li>ตั้งพาสโดยใช้คำสั่ง passwd root</li>
