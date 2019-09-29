@@ -16,9 +16,9 @@ https://www.facebook.com/groups/284652862468386/
 <p>รันคำสั่งตามนี้</p>
 <div>
     <ul>
-        <li>wget https://raw.githubusercontent.com/warpgap/netwall/master/openvpn-auto-ub14.sh</li>
-        <li>chmod +x openvpn-auto-ub14.sh</li>
-        <li>./openvpn-auto-ub14.sh</li>
+        <li>wget https://raw.githubusercontent.com/warpgap/netwall/master/openvpn-auto-ub16.sh</li>
+        <li>chmod +x openvpn-auto-ub16.sh</li>
+        <li>./openvpn-auto-ub16.sh</li>
         <li>reboot หนึ่งรอบ</li>
     </ul>
 </div>
@@ -40,9 +40,9 @@ https://www.facebook.com/groups/284652862468386/
 หรือ
 <ul>
     <li>ใช้ auto-script รันสคริปต์ตามนี้ (เลือกตามระบบ)</li>
-    <li>ตัวอย่าง ระบบ Ubuntu 14.04 </li>
-    <li>wget https://raw.githubusercontent.com/warpgap/netwall/master/ssh_ub14.sh</li>
-    <li>chmod +x ssh_ub14.sh</li>
-    <li>./ssh_ub14.sh</li>
+    <li>ตัวอย่าง ระบบ Ubuntu 16.04 </li>
+    <li>wget https://raw.githubusercontent.com/warpgap/netwall/master/ssh_ub16.sh</li>
+    <li>chmod +x ssh_ub16.sh</li>
+    <li>./ssh_ub16.sh</li>
     <li>ตั้งพาสโดยใช้คำสั่ง passwd root</li>
 </ul>
